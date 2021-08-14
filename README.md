@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/55031190/129458518-bf8f7fad-b9a8-4c17-8b21-8366cf32e958.png)
  
 
-⭐ Star us on GitHub — it helps!
+⭐ Star me on GitHub — it helps!
 
 
 # Sections 📚
