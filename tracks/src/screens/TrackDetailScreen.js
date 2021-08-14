@@ -16,7 +16,7 @@ const TrackDetailScreen = ({ navigation }) => {
       <Text style={{ fontSize: 48 }}>{track.name}</Text>
       <Spacer/>
       <MapView style={styles.map} initialRegion={{ longitudeDelta: 0.01, latitudeDelta: 0.01, ...initialCoords }}>
-        {/* <Polyline coordinates={track.locations.map((loc) => loc.coords)} /> */}
+        <Polyline coordinates={track.locations.map((loc) => loc.coords)} />
       </MapView>
     </>
   );
