@@ -15,7 +15,7 @@ app.use(trackRoutes);
 
 
 const MONGO_URI=
-    'mongodb+srv://<username>:<password>@cluster0.ngja0.mongodb.net/Track?retryWrites=true&w=majority'
+    'mongodb+srv://<your_username>:<your_password>@cluster0.ngja0.mongodb.net/Track?retryWrites=true&w=majority'
 mongoose.connect(MONGO_URI,{
     useNewUrlParser:true,
     useCreateIndex:true,
